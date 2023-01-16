@@ -19,7 +19,7 @@ Currently working on **Linux security audit**, and learning **WS server pentest*
  # :hammer: My favorite projects 
  
  [pam_config_auditor](https://github.com/ErwDt/pam_config_auditor): Audit PAM configuration file.  
- [ssh_config_auditor](https://github.com/ErwDt/ssh_config_auditor): AUdit SSH configuration file.  
+ [ssh_config_auditor](https://github.com/ErwDt/ssh_config_auditor): Audit SSH configuration file.  
 
 Not my project but nice offsec tools collaborative database : 
 
