@@ -1,16 +1,26 @@
-### Hi there 👋
+# :mega: ABOUT ME :mega: 
 
-<!--
-**ErwDt/ErwDt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer:LINUX and WINDOWS security auditor:computer:
 
-Here are some ideas to get you started:
+Currently working on **Linux security audit**, and learning **WS server pentest**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# :wrench: Languages and Tools:
+<p>
+    <img src="https://img.shields.io/badge/-python-green" alt="python badge">
+    <img src="https://img.shields.io/badge/-php-blue" alt="php badge">
+    <img src="https://img.shields.io/badge/-bash-orange" alt="bash badge">
+    <img src="https://img.shields.io/badge/-javascript-yellow" alt="javascript badge">
+    <img src="https://img.shields.io/badge/-windows-purple" alt="windows badge">
+    <img src="https://img.shields.io/badge/-linux-pink" alt="linux badge">
+</p>
+
+
+ # :hammer: My favorite projects 
+ 
+ [pam_config_auditor](https://github.com/ErwDt/pam_config_auditor): Audit PAM configuration file.  
+ [ssh_config_auditor](https://github.com/ErwDt/ssh_config_auditor): AUdit SSH configuration file.  
+
+Not my project but nice offsec tools collaborative database : 
+
+[offsec.tools](https://github.com/gwen001/offsectools_www)
